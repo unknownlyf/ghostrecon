@@ -41,7 +41,7 @@ Open http://localhost:3000 in your browser.
 
 ## Live site
 
-YOUR-VERCEL-URL
+(https://ghostrecon-five.vercel.app/)
 
 ## License
 
